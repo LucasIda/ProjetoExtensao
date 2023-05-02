@@ -8,3 +8,16 @@
     padding-top: 300px;
     padding-bottom: 300px;
 }
+
+.margemlateral {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.margemcima {
+    padding-top: 10%;
+}
+
+.p {
+    text-align: justify;
+}
