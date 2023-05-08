@@ -18,6 +18,21 @@
     padding-top: 10%;
 }
 
+.margembaixo {
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+
 .p {
     text-align: justify;
+}
+
+.rodape {
+    background-color: #79bd87;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    padding-left: 5%;
+    font-size: 22px;
+    color: #ffffff;
+    text-align: left;
 }
